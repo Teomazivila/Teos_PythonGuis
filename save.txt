@@ -1,0 +1,1 @@
+C:/Program Files/Git/git-bash.exe,C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe,C:/Program Files/MySQL/MySQL Workbench 6.3 CE/MySQLWorkbench.exe,
